@@ -1,0 +1,182 @@
+body{
+  background-color:#DCDCDC;
+}
+img{
+  border-radius:50%;
+  width:350px;
+  height:350px;
+  margin-left: 200px;
+  margin-top: 60px;
+}
+h1{
+  font-size: 43px;
+  font-weight: bold;
+  font-family: "noticia text", serif;
+  color: #4D4D4D;
+  margin-left: 200px;
+  margin-top: 50px;
+}
+h4{
+  font-size: 22px;
+  font-weight: bold;
+  font-family: "noticia text", serif;
+  color: #4D4D4D;
+  margin-left: 200px;
+  margin-top: -20px;
+}
+.menu{
+  margin-top: -50px;
+}
+#home{
+  margin-left: 550px;
+  color: red;
+}
+#resume{
+  margin-left: 30px;
+}
+#projects{
+  margin-left: 30px;
+}
+#contact{
+  margin-left: 30px;
+}
+.anch{
+  font-size: 18px;
+  font-weight: bold;
+  color: #8B8B8B;
+  font-family: "noticia text", serif;
+  text-decoration: none;
+}
+#Hello{
+  font-weight: bold;
+  font-size: 90px;
+}
+#abit{
+  font-size: 47px;
+  margin-top: -80px;
+}
+#intro{
+  font-family: "noticia text", serif;
+  color: #4D4D4D;
+  margin-left: 580px;
+  margin-top: -455px;
+}
+.button {
+  color: white;
+  padding: 60px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 50%;
+}
+#buttonone{
+  background-color:rgba(232, 53, 86, 1);
+  font-size: 17px;
+}
+#buttonone:hover{
+  background-color:rgba(155, 35, 57, 1);
+}
+#buttontwo{
+  background-color:rgba(97, 208, 212, 1);
+}
+#buttontwo:hover{
+  background-color:rgba(50, 150, 200, 1);
+}
+#buttonthree{
+  background-color:rgba(209, 201, 38, 1);
+}
+#buttonthree:hover{
+  background-color:rgba(150, 150, 20, 1);
+}
+#buttonmain{
+  margin-left: 580px;
+  margin-top: -20px;
+}
+#about{
+  margin-left: 580px;
+  font-size: 15px;
+  font-family: "noticia text", serif;
+  color: #4D4D4D;
+}
+#phone{
+  height: 40px;
+  width: 40px;
+  margin-left:250px;
+}
+#footer{
+  background-color: rgb(255, 70, 100);
+  width: 1349px;
+  height: 150px;
+  margin-left: -588px;
+  margin-top: 100px;
+  margin-bottom: 60px;
+}
+#text1{
+  font-size: 20px;
+  font-weight: bold;
+}
+#num1{
+  font-size: 15px;
+  margin-top: -20px;
+}
+#one{
+  margin-left: 300px;
+  margin-top: -65px;
+  color: white;
+}
+#email{
+  height: 40px;
+  width: 40px;
+  margin-left:250px;
+}
+#text2{
+  font-size: 20px;
+  font-weight: bold;
+}
+#num2{
+  font-size: 18px;
+  margin-top: -20px; 
+}
+#two{
+  margin-left: 300px;
+  margin-top: -65px;
+  color: white;
+}
+#contacts{
+  margin-top: -135px;
+  margin-left: 250px;
+}
+#plus{
+  height: 40px;
+  width: 40px;
+  margin-left:250px;
+}
+#text3{
+  font-size: 20px;
+  font-weight: bold;
+}
+#num3{
+  margin-top: -75px; 
+}
+#three{
+  margin-left: 300px;
+  margin-top: -65px;
+  color: white;
+}
+#follow{
+  margin-top: -120px;
+  margin-left: 600px;
+}
+#fb{
+  height: 20px;
+  width: 20px;
+  margin-left:0px;
+}
+#twitter{
+  height: 20px;
+  width: 20px;
+  margin-left:7px;
+}
